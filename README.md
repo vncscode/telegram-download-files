@@ -11,6 +11,8 @@ cd telegram-download-files
 
 pip install -r requirements.txt
 
+pip install --upgrade telethon
+
 python app.py
 
 ```
