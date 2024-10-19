@@ -5,6 +5,9 @@ Este repositório contém um script em Python projetado para facilitar o downloa
 Instale telegram-download-files com python
 
 ```bash
+
+Pegue suas credencias de conta em: https://my.telegram.org/apps
+
 git clone https://github.com/vncscode/telegram-download-files
 
 cd telegram-download-files
