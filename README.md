@@ -42,7 +42,7 @@ Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
 - Multiplataforma
 
 
-![Logo](https://ibb.co/Wttgqv4)
+![Logo](https://storage.nexfuture.com.br/1/103fa67919ee48fa8d6.jpeg)
 
 
 ## Codigo rodando
