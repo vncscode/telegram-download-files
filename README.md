@@ -22,9 +22,11 @@ python app.py
     
 ## Links Uteis
 
+- [Telegram Org](https://my.telegram.org/apps)
+
 - [@vncscode](https://github.com/vncscode)
 
-- [@Nex Future Cloud](https://loja.nexfuture.com.br/)
+- [Nex Future Cloud](https://loja.nexfuture.com.br/)
 
 
 ## Etiquetas
